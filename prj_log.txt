@@ -1,0 +1,3 @@
+See for prj_log.txt 
+the context of solution-file.
+It will be stored on C:\...\...
